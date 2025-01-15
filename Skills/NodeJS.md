@@ -13,12 +13,12 @@
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - Module `node:module`
+  - Module `node:module h`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` h
+  - Files `package.json`, `package-lock.json h`
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI h
   - Process-based permissions
   - Graceful shutdown
   - Clustering

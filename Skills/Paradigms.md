@@ -1,8 +1,8 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming h
+  - Imperative programming h
   - Structured programming
   - Non-structured programming
   - Functional programming
@@ -38,9 +38,9 @@
   - Field declarations
   - Inheritance
   - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
+  - Polymorphism h
+  - Abstract class h
+  - Interface h
   - Encapsulation
   - Hidden class
   - Object form
@@ -71,7 +71,7 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy h
   - Chain of Responsibility
   - Command
   - Iterator

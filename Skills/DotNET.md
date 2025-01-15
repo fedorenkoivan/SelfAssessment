@@ -37,9 +37,9 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support h
   - WebSockets for real-time communication
-  - TCP/UDP networking
+  - TCP/UDP networking h
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals h
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage

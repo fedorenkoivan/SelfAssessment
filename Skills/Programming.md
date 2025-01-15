@@ -1,55 +1,55 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model h
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
+  - Algorithm h
+  - Syntax e
+  - Semantics e
+  - Abstraction e
+  - Paradigm e
+  - Programm h
+  - Programming paradigm h
+  - Programming language h
+  - Contract h
   - Module
   - Library
-  - Package
-  - Component
-  - Framework
+  - Package h
+  - Component h
+  - Framework h
   - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
+  - Source code h
+  - Object code h
+  - Machine code h
+  - Microcode h
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) e
+  - KISS principle e
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value h
+  - Identifier h
+  - Variable h
+  - Constant h
   - Scalar
-  - Literal
-  - Expression
+  - Literal h
+  - Expression h
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
+  - Function h
+  - Procedure h
+  - Method h
+  - Class h
+  - Prototype h
+  - Event h
+  - Type h
+  - Flag h
+  - Lexical scope h
+  - Code block h
   - Conditions
   - Loops
   - Assignment
@@ -82,16 +82,16 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Argument h
+  - Parameter h
+  - Pure function h
   - Lambda expression
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion c
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array e
+  - Structure h
   - Record
-  - Enum
-  - Instance
-  - Object
+  - Enum h
+  - Instance h
+  - Object h
   - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Set h
+  - Hash table h
+  - Linked list h
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue e
+  - Stack e
   - Deque
-  - Tree
+  - Tree h
   - Graph
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -153,7 +153,7 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux h
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards

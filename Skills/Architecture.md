@@ -24,9 +24,9 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
+  - Quality h
   - Availability
-  - Flexibility
+  - Flexibility h
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -50,7 +50,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML h
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -62,7 +62,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless h
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -77,8 +77,8 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
@@ -101,5 +101,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Quality assurance h
+  - Engineering Hygiene h
