@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop e
+  - Event loop: 🙋 explained
   - `try..catch u`
   - Non-blocking
   - Async I/O
@@ -19,23 +19,23 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread h
-  - Process e
+  - Thread: 👂 heard
+  - Process: 🙋 explained
 - Async contracts
-  - Callbacks e
+  - Callbacks: 🙋 explained
   - Callback-last-error-first
   - Thenable
-  - Promise u
-  - Async/await h
+  - Promise: 🖐️ used
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event h
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
-  - Signal h
+  - Signal: 👂 heard
   - Stream
   - Chain of responsibility
   - Middleware
@@ -47,8 +47,8 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter h
-  - Observable/Observer h
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
@@ -68,7 +68,7 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell h
+  - Callback hell: 👂 heard
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -78,11 +78,11 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library u
-  - Promise.all u
-  - Promise.allSettled u
-  - Promise.race u
-  - Promise.any u
+  - RxJS library: 🖐️ used
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
   - Web Locks API
   - IPC
   - Channel API

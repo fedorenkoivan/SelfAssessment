@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -10,12 +10,12 @@
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases h
-  - Object databases h
-  - Column databases h
-  - Navigational databases h
-  - Hierarchical databases h
-  - In-memory databases h
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
+  - Navigational databases: 👂 heard
+  - Hierarchical databases: 👂 heard
+  - In-memory databases: 👂 heard
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data h
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
-  - Data Visualization h
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

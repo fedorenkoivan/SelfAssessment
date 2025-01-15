@@ -17,32 +17,32 @@
   - `...spread u`
   - `...rest u`
   - `typeof u`
-  - Destructuring u
-  - Generators h
-  - Iterators u
+  - Destructuring: 🖐️ used
+  - Generators: 👂 heard
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
-  - Chaining h
+  - Chaining: 👂 heard
   - Optional chaining
-  - IIFE h
+  - IIFE: 👂 heard
   - Async IIFE
   - `global u`
   - `globalThis u`
   - `window u`
-  - Getters and setters u
+  - Getters and setters: 🖐️ used
   - `__proto__ u`
   - `prototype u`
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
   - Bitwise operators
-  - Ternary operator e
+  - Ternary operator: 🙋 explained
   - `void e`
   - `yield h`
   - `await h`
   - Template literal
-  - Strict mode u
-  - Hoisting e
+  - Strict mode: 🖐️ used
+  - Hoisting: 🙋 explained
   - `delete u`
   - `in u`
   - `super u`
@@ -55,9 +55,9 @@
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields u
-  - Private class fields u
-  - Private class methods u
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
   - `if u`
   - `while u`
@@ -79,12 +79,12 @@
   - `with u`
   - `new u`
 - Functions
-  - Arrow function u
-  - Async function h
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
-  - Functional object h
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 👂 heard
   - `Function.prototype.call u`
   - `Function.prototype.bind h`
   - `Function.prototype.apply h`
@@ -114,9 +114,9 @@
   - `console u`
   - Timers
 - Infrastructure
-  - V8 h
-  - Node.js u
-  - npm u
-  - prettier u
-  - MDN u
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39
