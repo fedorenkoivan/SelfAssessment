@@ -3,16 +3,16 @@
 - Application structure
   - Separation of concerns
   - Inversion of Control
-  - Dependency Injection
+  - Dependency Injection: 👂 heard
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID: 👂 heard
   - CQS
   - Modularity
   - Subsystems
-  - Directories
+  - Directories: 👂 heard
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -24,9 +24,9 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality h
-  - Availability
-  - Flexibility h
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -50,7 +50,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML h
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -62,7 +62,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -77,8 +77,8 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
@@ -101,5 +101,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance h
-  - Engineering Hygiene h
+  - Quality assurance: 👂 heard
+  - Engineering Hygiene: 👂 heard

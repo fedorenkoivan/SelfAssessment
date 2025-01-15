@@ -1,8 +1,8 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
-  - Imperative programming h
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
   - Structured programming
   - Non-structured programming
   - Functional programming
@@ -12,7 +12,7 @@
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -28,23 +28,23 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Operator `new u`
+  - Static method: 🖐️ used
+  - Method: 👂 heard
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism h
-  - Abstract class h
-  - Interface h
+  - Inheritance: 👂 heard
+  - Parent class: 🖐️ used
+  - Polymorphism: 👂 heard
+  - Abstract class: 👂 heard
+  - Interface: 👂 heard
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -70,15 +70,15 @@
   - Adapter
   - Observer
   - Strategy
-  - Facade
-  - Proxy h
+  - Facade j
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 👂 heard
   - Composite
   - Decorator
   - Flyweight
