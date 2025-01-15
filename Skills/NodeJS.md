@@ -1,18 +1,18 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js h
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Event loop phases h
   - Event loop microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules h
+  - ECMAScript modules h
   - Module `node:module h`
   - Caching in CJS and ESM
   - Modules as singletons
@@ -21,7 +21,7 @@
   - Files `package.json`, `package-lock.json h`
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection h
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -67,8 +67,8 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) h
+  - TCP/SSL h
   - UDP
   - TLS
   - Websocket
@@ -79,11 +79,11 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS h
   - SQL injection
   - noDelay
   - keep-alive
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console h
   - Inspector
 - Data access
   - Data access layer

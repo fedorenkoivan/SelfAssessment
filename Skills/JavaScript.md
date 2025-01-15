@@ -73,31 +73,31 @@
   - `export u`
   - `label u`
   - `try..catch u`
-  - `switch`
-  - `class`
-  - `extends`
+  - `switch u`
+  - `class u`
+  - `extends u`
   - `with u`
   - `new u`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Arrow function u
+  - Async function h
+  - Function declaration u
+  - Function expression u
+  - Default parameters u
   - Functional object h
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - `Function.prototype.call u`
+  - `Function.prototype.bind h`
+  - `Function.prototype.apply h`
+  - `return u`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array u`
+  - `Map u`
+  - `Set u`
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
-  - `Object.assign`
+  - `Object.assign u`
 - Standard classes and namespaces
   - `Proxy h`
   - `RegExp u`
@@ -117,6 +117,6 @@
   - V8 h
   - Node.js u
   - npm u
-  - prettier
+  - prettier u
   - MDN u
   - TC39

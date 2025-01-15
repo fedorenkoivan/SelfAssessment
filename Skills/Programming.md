@@ -13,18 +13,18 @@
   - Programming paradigm h
   - Programming language h
   - Contract h
-  - Module
-  - Library
+  - Module u
+  - Library u
   - Package h
   - Component h
   - Framework h
-  - Platform
+  - Platform h
   - Source code h
   - Object code h
   - Machine code h
   - Microcode h
   - Software engineering h
-  - Decomposition
+  - Decomposition u
   - Control flow
   - Data flow
   - Code reuse
@@ -50,24 +50,24 @@
   - Flag h
   - Lexical scope h
   - Code block h
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression u
+  - Interface u
+  - Namespaces u
+  - Call stack u
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case h
+  - Snake case h
+  - Kebab case h
   - Trailing commas
-  - Return early
+  - Return early h
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types h
+  - Reference types h
   - Type systems
   - Strong typing
   - Weak typing
@@ -87,17 +87,17 @@
   - Pure function h
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure e
   - Partial application
   - Currying
-  - Higher order
+  - Higher order h
   - Recursion c
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
-  - Composition
-  - Pipe
-  - Memoize
+  - Composition c
+  - Pipe c
+  - Memoize h
   - Wrapper
   - Functor
   - Monad
@@ -132,23 +132,23 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS h
   - CDN
-  - CORS
+  - CORS h
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler h
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
-  - Interpreter
+  - Interpreter h
   - Linker
   - Dynamic linking
   - Static linking
@@ -157,18 +157,18 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Refactoring u
+  - Code review u
+  - Exception u
   - Unittesting
   - git u
   - Github u
-  - Docker
-  - Kubernetes
-  - GCC
+  - Docker h
+  - Kubernetes h
+  - GCC u
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -178,12 +178,12 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti c
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code h
+  - Unreachable code h
+  - Duplicate code h
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 h
   - ECMA
   - ICANN
-  - ISO
+  - ISO u
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG

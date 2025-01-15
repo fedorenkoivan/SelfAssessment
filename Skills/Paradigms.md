@@ -12,7 +12,7 @@
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -28,23 +28,23 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Operator `new u`
+  - Static method u
+  - Method h
+  - Async method h
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance h
+  - Parent class u
   - Polymorphism h
   - Abstract class h
   - Interface h
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
@@ -70,7 +70,7 @@
   - Adapter
   - Observer
   - Strategy
-  - Facade
+  - Facade j
   - Proxy h
   - Chain of Responsibility
   - Command
@@ -78,7 +78,7 @@
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype h
   - Composite
   - Decorator
   - Flyweight

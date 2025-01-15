@@ -3,16 +3,16 @@
 - Application structure
   - Separation of concerns
   - Inversion of Control
-  - Dependency Injection
+  - Dependency Injection h
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID h
   - CQS
   - Modularity
   - Subsystems
-  - Directories
+  - Directories h
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -25,7 +25,7 @@
   - Cyclomatic complexity
   - Reliability
   - Quality h
-  - Availability
+  - Availability h
   - Flexibility h
   - Law of Demeter (LoD)
 - Application architecture

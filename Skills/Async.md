@@ -47,8 +47,8 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter h
+  - Observable/Observer h
   - Readable
   - Writable
   - Transform
@@ -68,7 +68,7 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell h
   - Promise hell
   - ref() and unref()
   - Error handling in async code
